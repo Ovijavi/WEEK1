@@ -75,24 +75,35 @@ Mobile App Dev - App Brainstorming
 1. An app to connect college students with mentors in different fields
     - Allows on-campus orgs to register on the app and carry out their mentor/mentee program
     - depending upon the profession or fields students are intererested in they can sign up for a mentor/mentee program
-3. App that chooses places where people can meet based on their individual locations App that chooses places where people can meet based on their individual locations
+3. App that chooses places where people can meet based on their individual locations 
     - send to group and people can vote on location
     - meeting roulette 
 4. An app that lets college CS studetns find other CS students to work on projects together
     - Will find people with relative skills to work with
     - Combine with mentorship app
+    - People will be able to build projects they could have never done before with the extra help of others.
 
 ### Overall Categorization
 
-- **CS students**:
--  **Category**: Social, Education
--  **Mobile**: Allows for easy connections and realtime updates, easy communication, and use of location services.
--  **Market**: Every CS student. Initial market isnt huge but has a lot of room for expansion.
--  **Habit**: Not very habit forming but has a might not dye off because its the only thig like it
--  **Scope**: Definitly possible to build this by the end of the course. A st
+1. CS students
+    - **Description:** Connects CS students to other CS students so they can work on projects
+    -  **Category**: Social, Education
+    -  **Mobile**: Allows for easy connections and realtime updates, easy communication, and use of location services.
+    -  **Market**: Every CS student. Initial market isnt huge but has a lot of room for expansion.
+    -  **Habit**: Not very habit forming but has a might not dye off because its the only thig like it.
+    -  **Scope**: Definitly possible to build this by the end of the course. A stripped down version of the app would still be worth building.
 
 1. Hangout App
-    - **Description:** 
+    - **Description:** App that chooses places where people can meet based on their individual locations. People can vote on locations and app can chose from select locations
+    - **Category:** Social, Utility
+    - **Market:** App benifits people who live in different locations and are indecisive on where to meet or simply want to find somewhere that is available
+    - **Habit:** Not very habit forming but can be used often when every people go out anytime of the week
+    - **Scope:** Can be done in a small scope among friends but need to use maps in order to get locations that can be searched
 
-
-- 
+1. Mentor/Mentee App
+    - **Mentor/Mentee App**:
+    - **Category**: Social, Education
+    - **Mobile**: Allows students to get connected with a Mentor from their field of interest
+    - **Market**: Students from all disciplines. Initial market will require a large number of students from every student
+    - **Habit** - students will need to use it everyday so that they are contact with their mentors
+    - **Scope**: It is possible to build this by the end of this course. A stripped down version would be great to start off with. 

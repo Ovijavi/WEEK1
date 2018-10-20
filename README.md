@@ -4,7 +4,7 @@
 App that chooses places where people can meet based on their individual locations. People can vote on locations and app can chose from select locations
 
 ### App Idea Evaluation
-// TODO: Evaluate app across the following categories using the App Evaluation Protocol.
+
 Category: Social, Utility
 
 Market: App benifits people who live in different locations and are indecisive on where to meet or simply want to find somewhere that is available

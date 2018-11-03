@@ -30,12 +30,8 @@ Scope: Can be done in a small scope among friends but need to use maps in order 
 
 **Optional Nice-to-have Stories**
 
- * Users can save their favorite locations/restaurant
- * Users can vote on their fav restaurant/location meetup 
- * Users can see data about which locations they have visited with different friends - History of meetups
- * Users can tag or classify location for filtering them
- * Users can add their personal custom locations to the app
- * User can set reminders for future meetups on the app
+ * [fill in your required user stories here]
+ * 
 
 ## 2. Screen Archetypes
 
@@ -68,18 +64,28 @@ Scope: Can be done in a small scope among friends but need to use maps in order 
 
 **Tab Navigation** (Tab to Screen)
 
- * [fill out your first tab]
- * [fill out your second tab]
- * [fill out your third tab]
+ * Prefrences Tab
+ * Find Locations Tab
+ * Manage Friends Tab
 
 **Flow Navigation** (Screen to Screen)
 
- * [list first screen here]
-   * [list screen navigation here]
-   * ...
- * [list second screen here]
-   * [list screen navigation here]
-   * ...
+ * Log-in Screen
+   * User can login to the app and navigate to the main screen
+   * Can navigate to register screen if they do not have an acount
+ * Main Screen
+   * Can navigate to prefrences tab
+   * Can navigate to manage friends tab
+   * Can navigate to Find locations tab
+ * Prefrences Screen
+   * Can set different interests to focus on
+   * Can set range to look for locations
+ * Manage Freinds Screen
+   * Add Freinds
+   * Remove Friends
+   * Look for friends
+   * see friends current location
+ * Find Locations Screen
 
 ---
 

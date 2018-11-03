@@ -1,7 +1,7 @@
-## Hangout
+## Hangout App
 
 ### App Description
-App that chooses places where people can meet based on their individual locations. People can vote on locations and app can chose from select locations
+Everyday we are hanging out with our friends. All the time people have problem to decide where they want to go. This app chooses places where people can meet based on their individual/group location. People can look up for popular or fun location, vote and decide where they will go today.
 
 ### App Idea Evaluation
 

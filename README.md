@@ -30,8 +30,12 @@ Scope: Can be done in a small scope among friends but need to use maps in order 
 
 **Optional Nice-to-have Stories**
 
- * [fill in your required user stories here]
- * 
+ * Users can save their favorite locations/restaurant
+ * Users can vote on their fav restaurant/location meetup 
+ * Users can see data about which locations they have visited with different friends - History of meetups
+ * Users can tag or classify location for filtering them
+ * Users can add their personal custom locations to the app
+ * User can set reminders for future meetups on the app
 
 ## 2. Screen Archetypes
 

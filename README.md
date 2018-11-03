@@ -17,10 +17,6 @@ Scope: Can be done in a small scope among friends but need to use maps in order 
 
 ### User Stories
 
-# README Template
-
-Your [design product spec](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (described in that link) will look like the following in your README:
-
 ## 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**

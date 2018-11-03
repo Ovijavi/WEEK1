@@ -21,7 +21,6 @@ Scope: Can be done in a small scope among friends but need to use maps in order 
 
 **Required Must-have Stories**
 
- * [fill in your required user stories here]
  * User can register and log in to the app
  * User should share their location during using app
  * User can see their progress and what places were visited
